@@ -15,11 +15,11 @@
   </br>
   I'm O4bit, a space enthusiast and gamer who love to code aswell :3
   </br></br>
-  🚀 **TheAstronaut**: The universe is vast and endlessly fascinating.
+  🚀 TheAstronautthatiam: The universe is vast and endlessly fascinating.
   </br></br>
-  💻 **Coder**: Coding is my way of bringing ideas to life. I code in various programming languages and enjoy creating mods.
+  💻 Coder: Coding is my way of bringing ideas to life. I code in various programming languages and enjoy creating mods.
   </br></br>
-  🛠 **Modpack Creator**: Making custom modpacks is my time-off hobby.
+  🛠 Modpack Creator: Making custom modpacks is my time-off hobby.
   </br></br>
 </div>
 
