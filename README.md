@@ -15,7 +15,7 @@
   </br>
   I'm O4bit, a space enthusiast and gamer who love to code aswell :3
   </br></br>
-  🚀 ****: The universe is vast and endlessly fascinating.
+  🚀 **TheAstronaut**: The universe is vast and endlessly fascinating.
   </br></br>
   💻 **Coder**: Coding is my way of bringing ideas to life. I code in various programming languages and enjoy creating mods.
   </br></br>
