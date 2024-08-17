@@ -6,7 +6,7 @@
 <div align="center">
   You can find my website here:
 </br>
-  <a href="https://orbit.deepspaceproductions.net" target="_blank">O4bit.mywire.org</a>
+  <a href="https://orbit.deepspaceproductions.net" target="_blank">O4bit.AboutMe</a>
 </div>
 
 <div align="center">
