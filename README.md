@@ -6,20 +6,16 @@
 <div align="center">
   You can find my website here:
 </br>
-  <a href="https://orbit.deepspaceproductions.net" target="_blank">O4bit.AboutMe</a>
+  <a href="https://orbit.deepspaceproductions.net" target="_blank">o4bit.dev</a>
 </div>
 
 <div align="center">
   <h2>🌌 About Me</h2>
   Hey there! 👋
   </br>
-  I'm O4bit, a space enthusiast and gamer who love to code aswell :3
+  I'm O4bit, a space lover and gamer who love to code aswell :3
   </br></br>
-  🚀 TheAstronautthatiam: The universe is vast and endlessly fascinating.
-  </br></br>
-  💻 Coder: Coding is my way of bringing ideas to life. I code in various programming languages and enjoy creating mods.
-  </br></br>
-  🛠 Modpack Creator: Making custom modpacks is my time-off hobby.
+  💻 Coder: Coding is my way of bringing ideas to life. I code in various programming languages and enjoy making various programs and tweaks.
   </br></br>
 </div>
 
