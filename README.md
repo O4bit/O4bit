@@ -20,7 +20,7 @@
 <div align="center">
   <h2>📊 Statistics</h2>
   
-  ![Repos Badge](https://badges.strrl.dev/repos/o4bit) ![Commits Badge](https://badges.strrl.dev/commits/all/o4bit) ![Contributions Badge](https://badges.strrl.dev/contributions/all/o4bit) ![Years Badge](https://badges.strrl.dev/years/o4bit)
+  ![Repos Badge](https://badges.strrl.dev/repos/o4bit) ![Commits Badge](https://badges.strrl.dev/commits/all/o4bit) ![Contributions Badge](https://badges.strrl.dev/contributions/all/ithundxr) ![Years Badge](https://badges.strrl.dev/years/o4bit)
 
   ![Metrics](./github-metrics.svg)
   
