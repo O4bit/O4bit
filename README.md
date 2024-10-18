@@ -1,30 +1,28 @@
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1074435296978026588/1259801241689784350/ezgif-7-2eaf8a8b05.gif?ex=668d00d5&is=668baf55&hm=e6d7dcd107117c921c6fb9b967eeaf5b81f8bde8aae383ae0a7dae50ffa8bbc9&" width="192" height="192">
-  <h1>O4bit</h1>
+  <h1>Orbit</h1>
 </div>
 
 <div align="center">
   You can find my website here:
 </br>
-  <a href="https://orbit.deepspaceproductions.net" target="_blank">o4bit.dev</a>
+  <a href="https://orbit.deepspaceproductions.net" target="_blank">Orbit.dev</a>
 </div>
 
 <div align="center">
   <h2>🌌 About Me</h2>
-  Hey there! 👋
+  Hi hello hi! 👋
   </br>
-  I'm O4bit, a space lover and gamer who love to code aswell :3
-  </br></br>
-  💻 Coder: Coding is my way of bringing ideas to life. I code in various programming languages and enjoy making various programs and tweaks.
+  My name is Orbit and i like space and the stars, oh and i also like to code then and there
   </br></br>
 </div>
 
 <div align="center">
   <h2>📊 Statistics</h2>
   
-  ![Repos Badge](https://badges.strrl.dev/repos/orbitingastronaut) ![Commits Badge](https://badges.strrl.dev/commits/all/orbitingastronaut) ![Contributions Badge](https://badges.strrl.dev/contributions/all/orbitingastronaut) ![Years Badge](https://badges.strrl.dev/years/orbitingastronaut)
+  ![Repos Badge](https://badges.strrl.dev/repos/o4bit) ![Commits Badge](https://badges.strrl.dev/commits/all/o4bit) ![Contributions Badge](https://badges.strrl.dev/contributions/all/o4bit) ![Years Badge](https://badges.strrl.dev/years/o4bit)
 
   ![Metrics](./github-metrics.svg)
   
-  <img height="295em" src="https://github-readme-activity-graph.vercel.app/graph?username=orbitingastronaut&theme=rogue" alt="O4bit's Contribution Graph.">
+  <img height="295em" src="https://github-readme-activity-graph.vercel.app/graph?username=o4bit&theme=rogue" alt="O4bit's Contribution Graph.">
 </div>
