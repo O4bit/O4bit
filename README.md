@@ -1,4 +1,4 @@
-<p align="center"><img width="25%" height="25%" alt="Profile picture" src="https://images.weserv.nl/?url=github.com/O4bit/assets/o4bit.gif?h=400&w=400&fit=cover&mask=circle&maxage=1d&output=gif" style="border-radius: 50%" /></p>
+<p align="center"><img width="25%" height="25%" alt="Profile picture" src="https://images.weserv.nl/?url=github.com/O4bit/O4bit/blob/main/assets/o4bit.gif?h=400&w=400&fit=cover&mask=circle&maxage=1d&output=gif" style="border-radius: 50%" /></p>
 <h1 align="center">hey there, I'm Orbit!</h1>
 <p align="center">I am a back-end developer and Software developer.</p>
 <br>
