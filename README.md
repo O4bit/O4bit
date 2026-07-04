@@ -3,4 +3,4 @@
 <p align="center">CEO & Lead dev <a href="https://github.com/Vertronix-systems">@vertronix-systems</a>. Kind of a programmer in my spare time.</p>
 <br>
 <p align="center">To learn more about me, check out <a href="https://o4bit.space">my website</a>.</p>
-<p align="center"><a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/699845b617addfec23cb3251?variant=dark&roadmaps=backend%2Crust%2Capi-design%2Clinux" alt="roadmap.sh"/></a>
+<p align="center"><a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/699845b617addfec23cb3251?variant=dark" alt="roadmap.sh"/></a>
