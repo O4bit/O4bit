@@ -2,5 +2,5 @@
 <h1 align="center">hey there, I'm Orbit!</h1>
 <p align="center">CEO & Lead dev <a href="https://vertronix-systems>@vertronix-systems</a>. Kind of a programmer in my spare time.</p>
 <br>
-<p align="center">To learn more about me, check out <a href="https://o4bit.dev">my website</a>.</p>
+<p align="center">To learn more about me, check out <a> href="https://o4bit.dev">my website</a>.</p>
 <p align="center"><a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/699845b617addfec23cb3251?variant=dark" alt="roadmap.sh"/></a>
