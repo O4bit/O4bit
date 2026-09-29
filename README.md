@@ -1,14 +1,21 @@
 <p align="center"><img width="25%" height="25%" alt="Profile picture" src="https://images.weserv.nl/?url=https://o4bit.dev/assets/og/ezgif-7-2eaf8a8b05.gif&h=400&fit=cover&mask=circle&output=gif&n=-1" style="border-radius: 50%" /></p>
 <h1 align="center">hey there, I'm Orbit!</h1>
 <p align="center">CEO & Lead dev <a href="https://github.com/vertronix-systems">@vertronix-systems</a>. Kind of a programmer in my spare time.</p>
+
 <br>
+
 <p align="center">To learn more about me, check out <a href="https://o4bit.dev">my website</a>.</p>
 
 <p align="center">
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/699845b617addfec23cb3251?variant=dark" alt="roadmap.sh"/></a>
 </p>
 
-<!-- Contribution & Activity Graph -->
+<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=o4bit&theme=github-dark" alt="Orbit's GitHub Activity Graph" />
+</p>
+
+<!-- Alternative Streak Stats (Uses working demolab.com host instead of heroku) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=o4bit&theme=dark" alt="Orbit's GitHub Streak" />
 </p>
