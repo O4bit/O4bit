@@ -3,4 +3,12 @@
 <p align="center">CEO & Lead dev <a href="https://github.com/vertronix-systems">@vertronix-systems</a>. Kind of a programmer in my spare time.</p>
 <br>
 <p align="center">To learn more about me, check out <a href="https://o4bit.dev">my website</a>.</p>
-<p align="center"><a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/699845b617addfec23cb3251?variant=dark" alt="roadmap.sh"/></a></p>
+
+<p align="center">
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/699845b617addfec23cb3251?variant=dark" alt="roadmap.sh"/></a>
+</p>
+
+<!-- Contribution & Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=o4bit&theme=github-dark" alt="Orbit's GitHub Activity Graph" />
+</p>
