@@ -1,4 +1,4 @@
-<p align="center"><img width="25%" height="25%" alt="Profile picture" src="https://images.weserv.nl/?url=https://o4bit.dev/assets/og/ezgif-7-2eaf8a8b05.gif&h=400&fit=cover&mask=circle&output=gif&n=-1" style="border-radius: 50%" /></p>
+<p align="center"><img width="25%" height="25%" alt="Profile picture" src="https://images.weserv.nl/?url=https://o4bit.dev/assets/og/o4bit.png&h=400&fit=cover&mask=circle&output=gif&n=-1" style="border-radius: 50%" /></p>
 <h1 align="center">hey there, I'm Orbit!</h1>
 <p align="center">CEO & Lead dev <a href="https://github.com/vertronix-systems">@vertronix-systems</a>. Kind of a programmer in my spare time.</p>
 
